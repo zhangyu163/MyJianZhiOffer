@@ -1,1 +1,1 @@
-# MyJianZhiOffer
+#刷剑指offer的时候自己改写的，很少用指针，基本上用C++的迭代器。
